@@ -1,5 +1,5 @@
-# Network Layer for nRF24L01(+) radios
+# Network Layer for nRF24L01(+) radios, Qt version
 
-Based on the work of @stanleyseow and @maniacbug
+Based on the work of @stanleyseow, @maniacbug and @farconada
 https://github.com/stanleyseow/RF24
-Please see the full documentation at http://maniacbug.github.com/RF24Network/index.html 
+https://github.com/maniacbug/RF24Network
